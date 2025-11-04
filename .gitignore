@@ -11,3 +11,8 @@ __pycache__/
 .DS_Store/
 **/.DS_Store/
 continental_variogram*.nc
+
+data/archive*
+data/*.nc
+netcdf_grids/
+

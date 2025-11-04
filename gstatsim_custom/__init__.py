@@ -2,5 +2,5 @@ import gstatsim_custom.utilities
 import gstatsim_custom.interpolate
 import gstatsim_custom.neighbors
 import gstatsim_custom.covariance
-import gstatsim_custom.parallel
-import gstatsim_custom.gpu_interpolate
+# import gstatsim_custom.parallel
+# import gstatsim_custom.gpu_interpolate
