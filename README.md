@@ -8,3 +8,5 @@ I also commented out the cpu usaged inside the gstatsim_custom to run on mac wit
 ## Results
 
 ![result](figures/offshore_constrained_transect.png)
+
+Fig: Left is the interpolated DEM data plotted with red contour lines of the masked 7.5KBP paleo surface. Right is the transect of the delta with Kopanoar constrained.
